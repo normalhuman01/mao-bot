@@ -1,22 +1,22 @@
-## Maoism is dying, Lets save it!
+## Save Maoism
 
-How to use the bot:
+**Usage Instructions:**
 
-You require Node 14 or higher. And Yarn installed
+To use this application, please ensure you have Node.js 14 or a higher version installed along with Yarn.
 
-Simply run to install all dependencies
-```
-yarn install
-```
+1. Install all dependencies by running the following command:
+   ```
+   yarn install
+   ```
 
-Use the provided env example to create your own env file
+2. Create your own environment file using the provided example:
+   ```
+   cp .env.example .env
+   ```
 
-```
-cp .env.example .env
-```
+3. Start the bot with the following command:
+   ```
+   yarn start
+   ```
 
-And then run the bot with:
-
-```
-yarn start
-```
+Get ready to unleash the power of Save Maoism!
