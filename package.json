@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "src/app.ts",
   "repository": "https://github.com/normalhuman01/MaoBot.git",
-  "author": "Carlos Paredes <cparedesr@uc.cl>",
+  "author": "NormalHuman <normalhuman@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "@types/node": "^20.4.5",
