@@ -2,7 +2,7 @@
   "name": "MaoBot",
   "version": "1.0.0",
   "main": "src/app.ts",
-  "repository": "https://github.com/CarloGauss33/MaoBot.git",
+  "repository": "https://github.com/normalhuman01/MaoBot.git",
   "author": "Carlos Paredes <cparedesr@uc.cl>",
   "license": "MIT",
   "dependencies": {
